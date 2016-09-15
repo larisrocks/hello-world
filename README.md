@@ -1,2 +1,3 @@
 # hello-world
-apowpojdapjwd
+Hi, GitHub made me edit this Read Me file.
+Live Long And Prosper.
